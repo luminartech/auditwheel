@@ -321,12 +321,12 @@
        "libcrypt.so.1",
        "librosbag_storage.so",
        "libclass_loader.so",
-       "libconsole_bridge.so.0",
+       "libconsole_bridge.so.0.4",
        "libcpp_common.so",
        "libpcre.so.3",
        "librostime.so",
        "libPocoFoundation.so.50",
-       "libboost_filesystem.so.1",
+       "libboost_filesystem.so.1.65.1",
        "libboost_system.so.1.65.1"
      ],
      "blacklist": {
