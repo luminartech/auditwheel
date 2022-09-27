@@ -381,6 +381,21 @@
        }
      },
      "lib_whitelist": [
+       "libSM.so.6",
+       "libgobject-2.0.so.0",
+       "libGL.so.1",
+       "libPocoFoundation.so.50",
+       "libX11.so.6",
+       "libICE.so.6",
+       "libgthread-2.0.so.0",
+       "libnsl.so.1",
+       "libresolv.so.2",
+       "libboost_filesystem.so.1.65.1",
+       "libXext.so.6",
+       "libboost_system.so.1.65.1",
+       "libXrender.so.1",
+       "libglib-2.0.so.0",
+
        "libpthread.so.0",
        "libstdc++.so.6",
        "libm.so.6",
